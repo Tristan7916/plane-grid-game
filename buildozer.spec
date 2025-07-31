@@ -1,7 +1,7 @@
 [app]
 title = PlaneGridGame
-package.name = planegrid
-package.domain = org.example
+package.name = planegridgame
+package.domain = org.senku
 source.dir = .
 version = 1.0
 requirements = python3,kivy
